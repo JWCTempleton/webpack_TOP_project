@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#content {
+    display: flex;
+    justify-content: center;
+}
+.header__img {
+    text-align: center;
+    width: 30vw;
+}
